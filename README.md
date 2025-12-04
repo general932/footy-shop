@@ -1,2 +1,4 @@
-# footy-shop
-footy shop salam
+/uploads_private/
+/.env
+/vendor/
+/node_modules/
